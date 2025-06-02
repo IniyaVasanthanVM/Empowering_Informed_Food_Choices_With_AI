@@ -1,5 +1,10 @@
 # Empowering Informed Food Choices with AI
 
+## 📌 Project Overview
+
+This project, **Empowering Informed Food Choices with AI**, leverages computer vision and natural language processing to help users make healthier food decisions. Users can upload images of food products or nutrition labels, from which the system extracts and analyzes nutritional data using OCR and AI. Users can input any health issues they currently face (e.g., diabetes, allergies), and the AI re-analyzes the already scanned food based on those conditions to provide personalized dietary recommendations. The system is designed with modular architecture and a clean web interface, offering real-time feedback, accessibility, and future scalability.
+Additionally, a dedicated news section displays the latest health-related articles—either related to the scanned food or general dietary news—keeping users informed about current trends and food safety.
+
 ## 🔐 File Signature Verification (Windows)
 
 This project is signed using GPG to verify its authenticity.
